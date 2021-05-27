@@ -1,7 +1,5 @@
 package com.za.core.controller;
 
-import javax.servlet.http.HttpServletRequest;
-
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
@@ -18,7 +16,7 @@ public class MainController {
 	@ZA_InterfaceNotesParameter(name = "code", type = ZAParameter.TYPE_String, describe = "短信验证码") // 参数注解
 	@RequestMapping("/login.app")
 	@ResponseBody
-	public String login(HttpServletRequest request, String phone, String code) {
+	public String login(String phone, String code) {
 		try {
 			// 业务代码
 		} catch (Exception e) {
