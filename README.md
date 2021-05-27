@@ -1,5 +1,5 @@
 # ZA_DEMO
-## 这是[ZA](https://github.com/342535324/ZA_DEMO)的演示DEMO,这个DEMO主要演示内容如下
+## 这是[ZA](https://github.com/342535324/ZA)的演示DEMO,这个DEMO主要演示内容如下
 * 1.通过在接口上使用注解生成接口文档与接口调试页并输出至JSP
 * 2.在实体类属性上轻松实现数据校验
 
