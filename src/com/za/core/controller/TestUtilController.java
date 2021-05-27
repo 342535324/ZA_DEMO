@@ -21,7 +21,6 @@ import com.rs.core.za.testUtil.util.ZACreateHtml;
 @Controller
 @RequestMapping("/testUtil")
 public class TestUtilController {
-	private static final String host = "http://localhost:8080/ZA_DEMO/";
 	private static final String[] CLASS_PACKAGES = new String[] { "com.za.core.controller" };// 控制器的包名
 
 	/**
