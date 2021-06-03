@@ -4,9 +4,10 @@
 * 2.在实体类属性上轻松实现数据校验
 ---
 # 使用方法
-* 1.导入本地工作空间
-* 2.当做web项目运行
-* 3.访问 http://localhost:8080/ZA_DEMO/testUtil/interfaceText.html 
+* 1.导入[ZA](https://github.com/342535324/ZA)与本DEMO,一起到本地工作空间
+* 2.本DEMO需要在"Java Build Path" -> "Projects" 引用[ZA](https://github.com/342535324/ZA)项目
+* 3.当做web项目运行
+* 4.访问 http://localhost:8080/ZA_DEMO/testUtil/interfaceText.html 
 ---
 # ZA
 ---
